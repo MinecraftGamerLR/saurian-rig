@@ -7,7 +7,11 @@
 <h2>
   The Ultimate Yoshi Rig
 </h2>
+
+---
+
 ### ABOUT
+
 The Saurian Rig is an ultra photorealistic rendition of the Yoshi rig originally built for Source Filmmaker, converted into Blender. This rig supports both Cycles and Eevee (mostly), and it comes with an asset library filled with premade materials and pose templates to drag and drop directly onto the rig in your scenes!
 
 ## Features
