@@ -2,7 +2,7 @@
   SAURIAN RIG
 </h1>
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/714378425321652316/1262592790265856040/YoshiWave.png?ex=669728ab&is=6695d72b&hm=688eb6ca3706665ea7b0c052cb83330dce8ebff3384c57b99e59c96045e6df3b&=&format=webp&quality=lossless" width="219" height="293"/>
+  <img src="https://media.discordapp.net/attachments/714378425321652316/1262606175250288724/SaurianRigIconTransparent.png?ex=66973522&is=6695e3a2&hm=52172fb733cddbdc4a85f4959e0194b33c97ad7dbd9ef340e42527bca3f24a72&=&format=webp&quality=lossless" width="391" height="472"/>
 </div>
 <h2>
   The Ultimate Yoshi Rig
