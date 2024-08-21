@@ -2,7 +2,7 @@
   SAURIAN RIG
 </h1>
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/714378425321652316/1262606175250288724/SaurianRigIconTransparent.png?ex=66973522&is=6695e3a2&hm=52172fb733cddbdc4a85f4959e0194b33c97ad7dbd9ef340e42527bca3f24a72&=&format=webp&quality=lossless" width="307" height="371"/>
+  <img src="https://github.com/user-attachments/assets/07fda6ca-85b4-44c2-a50e-601a4ed2dd82" width="307" height="371"/>
 </div>
 <h2>
   The Ultimate Yoshi Rig
